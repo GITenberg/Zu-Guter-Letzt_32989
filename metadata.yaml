@@ -1,0 +1,31 @@
+_repo: Zu-Guter-Letzt_32989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32989'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry'
+title: Zu Guter Letzt
+url: http://www.gutenberg.org/ebooks/32989
