@@ -15,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Busch
     - http://en.wikipedia.org/wiki/Wilhelm_Busch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32989#Zu-Guter-Letzt
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
